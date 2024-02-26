@@ -75,7 +75,7 @@
 * **What are some of the core metrics that companies in this field use to measure?**
     Core metrics include reduction in documentation time, accuracy of voice-to-text transcription, user adoption rates, clinician satisfaction scores, and integration effectiveness with EHR systems.
                 
-                > We are proud that doctors give us a Net Promoter Score of 57 and honored to >have received awards such as Google’s Partner of the Year for AI & ML, Fast >Company’s Most Innovative Companies, and Fierce Healthcare’s Fiercest Cost >Saving Solution. [Source](https://www.suki.ai/about-us/)
+                > We are proud that doctors give us a Net Promoter Score of 57 and honored to > have received awards such as Google’s Partner of the Year for AI & ML, Fast > Company’s Most Innovative Companies, and Fierce Healthcare’s Fiercest Cost > Saving Solution. [Source](https://www.suki.ai/about-us/)
 
 * **How is your company performing relative to competitors in the same field?**
     Suki.AI differentiates itself through its focus on personalization and adaptability to individual doctor preferences, which has garnered positive user feedback and distinguished it from competitors. Its performance is also bolstered by strong partnerships and integrations with EHR systems.
