@@ -55,6 +55,10 @@
 * **Which technologies are they currently using, and how are they implementing them?**
     Suki.AI uses a combination of natural language processing (NLP), machine learning, and voice recognition technology to power its AI assistant. In an interview published in [Forbes](https://www.forbes.com/sites/cio/2024/01/25/new-federal-program-aims-to-democratize-ai-research-and-development/) and the beginnign of this year, Punit discusses the integral role and challenges of employing Large Language Models (LLMs) within Suki's framework and the broader context of AI applications in healthcare. Soni emphasizes that while LLMs are a critical component, they are not the sole element of a comprehensive solution, especially in an enterprise setting like healthcare, which demands more than just the AI model itself. Soni’s insights reveal the complexities of integrating AI into healthcare, underscoring the importance of not only selecting the right LLM but also considering the broader infrastructure, data availability, and regulatory environment. Tuning AI models to meet the specific demands of healthcare specialties requires a deep understanding of both the technology and the domain, alongside a willingness to invest in the necessary resources to achieve high accuracy and user trust.
     The technology is implemented as a user-friendly interface that doctors can interact with using voice commands to complete documentation, retrieve patient information, and more, directly into their EHR systems. 
+    >Artificial intelligence (AI) has the potential to revolutionize the way we approach medical diagnosis, treatment, and patient care. From machine learning algorithms that can analyze medical imaging with incredible accuracy to streamlining clinical workflows and reducing administrative burden, AI is already making a significant impact in healthcare. And, the recent developments in large language models (LLMs) have introduced new applications that go inside the exam room and started new conversations about how the new technology changes clinician's roles - or doesn’t.
+
+    >AI will change the way we diagnose patients. It will change the way we treat patients. It will change the way we make new discoveries. Its presence will be more ubiquitous than the stethoscope. And, like any new technology in medicine — particularly ones as fundamental as this — it’s worth understanding how the technology works before it ends up in front of us and our patients. 
+    [Learn more about how AI is changing healthcare](https://www.suki.ai/blog/the-fundamentals-of-ai-in-medicine/)
 
 ## Landscape
 
@@ -68,6 +72,27 @@
     - **Nuance Communications**
         - **Product:** Dragon Medical One
         - **Overview:** A leader in conversational AI and speech recognition technology, Nuance offers Dragon Medical One, a cloud-based speech recognition solution for healthcare providers that facilitates efficient documentation.
+    - **Saykara**
+        - **Overview:** Before its acquisition by Nuance Communications, Saykara was a significant player with its AI-powered voice assistant aimed at reducing the administrative burden on healthcare providers.
+    - **Notable Health**
+        - **Product:** Intelligent Automation
+        - **Overview:** Notable Health uses AI to automate and digitize healthcare workflows, including patient intake, documentation, and billing processes, aiming to reduce manual entry and increase efficiency.
+    - **Robin Healthcare**
+        - **Overview:** Robin combines AI with human assistance to offer a hands-free documentation solution that captures patient-doctor conversations and converts them into clinical notes, directly integrating into EHR systems.
+    - **Olive AI**
+        - **Overview:** Though Olive's primary focus is on automating healthcare operations broadly, its AI platform also addresses documentation and administrative tasks, positioning it as a competitor in streamlining healthcare workflows.
+    - **Aiva Health**
+        - **Overview:** Aiva uses voice-assistant technology to cater to healthcare settings, allowing for hands-free communication and assistance for healthcare providers, though with a broader focus that includes patient engagement.
+
+    **Market Position and Competitive Edges**
+    - **Suki.AI's Unique Selling Proposition (USP):** Suki.AI distinguishes itself with a deep focus on reducing the time doctors spend on documentation, offering a more personalized and adaptive AI assistant that learns from individual user preferences and speech patterns.
+
+    - **Technology and Integration:**
+    Competitors differentiate themselves through the sophistication of their AI technologies, ease of integration with existing EHR systems, and the ability to understand and process medical terminology accurately.
+
+    - **Market Focus:** While some competitors offer solutions targeting specific tasks within healthcare workflows, others provide more comprehensive platforms aiming to automate a broader range of administrative processes.
+
+The competitive landscape for AI in healthcare is rapidly evolving, with continuous advancements in AI and machine learning technologies driving innovation and new entrants into the market.
 
 ## Results
 
