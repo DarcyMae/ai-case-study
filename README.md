@@ -14,7 +14,7 @@
 
 * **How did the idea for the company (or project) come about?**
     A 2018 [Survey of America's Physicians](https://physiciansfoundation.org/wp-content/uploads/2018/09/physicians-survey-results-final-2018.pdf) showed that 80% of physicians are at full capacity or are overextended and 49% would not recommend their career to their children. This is usually attributed to a poor work life balance leading to burnout. Suki.AI was designed with the desire to help with Clinician burnout. It does that by utalizing an AI-powered solution to streamline processed and alleviate the administrative burdan on healthcare providers. Suki’s mission is to “make healthcare tech invisible and assistive so that clinicians can focus on patient care.”
-                 >  Suki's mission is to lift the administrative burden from doctors, so they can focus on what matters. [Source](https://www.suki.ai/about-us/)
+    >  Suki's mission is to lift the administrative burden from doctors, so they can focus on what matters. [Source](https://www.suki.ai/about-us/)
 
 * **How is the company funded?  How much funding have they received?**
     According to an article from [Healthcare IT Today](https://www.healthcareittoday.com/2021/12/08/suki-announces-55-million-series-c-funding-round/), Suki. AI has received substantial funding.
@@ -75,7 +75,7 @@
 * **What are some of the core metrics that companies in this field use to measure?**
     Core metrics include reduction in documentation time, accuracy of voice-to-text transcription, user adoption rates, clinician satisfaction scores, and integration effectiveness with EHR systems.
                 
-                > We are proud that doctors give us a Net Promoter Score of 57 and honored to > have received awards such as Google’s Partner of the Year for AI & ML, Fast > Company’s Most Innovative Companies, and Fierce Healthcare’s Fiercest Cost > Saving Solution. [Source](https://www.suki.ai/about-us/)
+    > We are proud that doctors give us a Net Promoter Score of 57 and honored to have        received awards such as Google’s Partner of the Year for AI & ML, Fast Company’s Most Innovative Companies, and Fierce Healthcare’s Fiercest Cost > Saving Solution. [Source](https://www.suki.ai/about-us/)
 
 * **How is your company performing relative to competitors in the same field?**
     Suki.AI differentiates itself through its focus on personalization and adaptability to individual doctor preferences, which has garnered positive user feedback and distinguished it from competitors. Its performance is also bolstered by strong partnerships and integrations with EHR systems.
