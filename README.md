@@ -1,9 +1,9 @@
 # ai-case-study #
-AI Case Study
+# AI Case Study # 
 
 ## Overview and Origin  ##
 
-*Name of Company:*
+* _Name of Company_
 Suki.AI
 
 * When was the company incorporated:
@@ -18,23 +18,23 @@ A 2018 [Survey of America's Physicians](https://physiciansfoundation.org/wp-cont
 
 * How is the company funded?  How much funding have they received?
 According to an article from [Healthcare IT Today](https://www.healthcareittoday.com/2021/12/08/suki-announces-55-million-series-c-funding-round/), Suki. AI has received substantial funding.
- ### Series C Funding Round: 
- Suki has successfully closed a Series C funding round, raising $55 million. This level of funding is indicative of strong support and belief in the company's potential to impact the healthcare sector significantly with its AI technology.
+    **Series C Funding Round**
+    Suki has successfully closed a Series C funding round, raising $55 million. This level of funding is indicative of strong support and belief in the company's potential to impact the healthcare sector significantly with its AI technology.
 
-### Lead Investor: 
-Funding was led by March Capital, a prominent venture capital firm known for investing in growth-stage technology companies. The leading role of such a firm underscores the market's confidence in Suki's vision and execution capabilities.
+    **Lead Investor** 
+    Funding was led by March Capital, a prominent venture capital firm known for investing in growth-stage technology companies. The leading role of such a firm underscores the market's confidence in Suki's vision and execution capabilities.
 
-### Additional Support: 
-Philips Ventures, the venture capital arm of Philips, participated in this round, along with all previous investors including Venrock, Flare Capital, Breyer Capital, and inHealth Ventures. The continued support from previous investors is a positive sign of their ongoing trust in Suki's progress and direction.
+    - **Additional Support**
+    Philips Ventures, the venture capital arm of Philips, participated in this round, along with all previous investors including Venrock, Flare Capital, Breyer Capital, and inHealth Ventures. The continued support from previous investors is a positive sign of their ongoing trust in Suki's progress and direction.
 
-### Diverse Investor Base: 
-The funding  also includes contributions from super-angels—individual investors with significant expertise and resources. These super-angels are leading figures in technology, healthcare, and finance, highlighting the broad appeal and potential of Suki's technology across multiple domains. Notable super-angels include Gaingels Group, Pankaj Patel (ex-Chief Development Officer of Cisco), Andrew Deutsch (CEO of RIMA Radiology), and Russell Farscht (former Managing Director of The Carlyle Group).
+    - **Diverse Investor Base**
+    The funding  also includes contributions from super-angels—individual investors with significant expertise and resources. These super-angels are leading figures in technology, healthcare, and finance, highlighting the broad appeal and potential of Suki's technology across multiple domains. Notable super-angels include Gaingels Group, Pankaj Patel (ex-Chief Development Officer of Cisco), Andrew Deutsch (CEO of RIMA Radiology), and Russell Farscht (former Managing Director of The Carlyle Group).
 
-### Implications for Suki: 
-This funding round represents a substantial investment in Suki's technology and its application in healthcare. It will likely enable Suki to accelerate its product development, expand its market presence, and possibly explore new applications of its voice AI technology within healthcare.
+    - **Implications for Suki**
+    This funding round represents a substantial investment in Suki's technology and its application in healthcare. It will likely enable Suki to accelerate its product development, expand its market presence, and possibly explore new applications of its voice AI technology within healthcare.
 
-### Market Confidence: 
-The successful closing of a Series C round, particularly with the involvement of both new and returning high-profile investors, signals strong market confidence in Suki's technology and its potential to revolutionize healthcare documentation and administrative tasks.
+    - **Market Confidence** 
+    The successful closing of a Series C round, particularly with the involvement of both new and returning high-profile investors, signals strong market confidence in Suki's technology and its potential to revolutionize healthcare documentation and administrative tasks.
 
 Suki is currently funded at 95M. 
 
@@ -67,7 +67,7 @@ Competitors include Nuance Communications with its Dragon Medical One platform, 
 
 ## Results
 
-* What has been the business impact of this company so far?
+* #### What has been the business impact of this company so far? ####
 Suki.AI has demonstrated significant impact by reducing the time doctors spend on documentation by up to 70%, improving documentation quality, and contributing to higher clinician satisfaction. These outcomes have led to increased adoption of Suki.AI across multiple states and specialties.
 
 * What are some of the core metrics that companies in this field use to measure?
